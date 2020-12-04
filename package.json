@@ -1,0 +1,23 @@
+{
+  "name": "search-files-cli",
+  "version": "1.0.0",
+  "description": "search-files-cli",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago-l/search-files-cli.git"
+  },
+  "keywords": [],
+  "author": "Thiago Lourenço",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago-l/search-files-cli/issues"
+  },
+  "homepage": "https://github.com/Thiago-l/search-files-cli#readme"
+}
